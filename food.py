@@ -6,6 +6,7 @@ class Food(Turtle):
     def __init__(self) -> None:
         
         super().__init__()
+        
         self.shape('circle')
         self.color('white')
         self.penup()
