@@ -1,6 +1,6 @@
 # Python Snake Game
 
-Welcome to my **Python Snake Game**! This is my first project using **turtle graphics**! This game has a snake that the user can control using W, A, S, and D and the objective is to eat and grow your snake as much as possible without crasing into yourself or the wall. This is my take on the classic computer game which involves knowledge of OOP and creative thinking specifically applying basic coding principles I have learned and apply them in order to make this game
+Welcome to my **Python Snake Game**! This is my first project using **turtle graphics**! This game has a snake that the user can control using W, A, S, and D and the objective is to eat and grow your snake as much as possible without crasing into yourself or the wall. This is my take on the classic computer game which involves knowledge of OOP and creative thinking.
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ Ensure that Python 3.x is installed on your system.
 
 1. **Clone this repository**:
 
-2. **Run the game**:
+2. **Run main.py**:
 
 ### How to Play
 
