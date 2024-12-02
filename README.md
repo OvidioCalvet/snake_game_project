@@ -2,7 +2,7 @@
 
 Welcome to my **Python Snake Game**! This is my first project using **turtle graphics**! This game has a snake that the user can control using W, A, S, and D and the objective is to eat and grow your snake as much as possible without crasing into yourself or the wall. This is my take on the classic computer game which involves knowledge of OOP and creative thinking.
 
-https://giphy.com/gifs/EpH9Ujq40BALUp5BsT 
+![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTAwYXc1a2Fudmh2c256dTdnYmtwNHJjcXdkZ2Z1azJzZ3F6Mzg5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EpH9Ujq40BALUp5BsT/giphy.gif)
 
 ## Getting Started
 
