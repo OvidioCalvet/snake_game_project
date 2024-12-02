@@ -10,6 +10,8 @@ screen.bgcolor('#013220')
 
 snake = Snake()
 
+score = Scoreboard("")
+
 food = Food()
 
 screen.listen()
@@ -28,5 +30,6 @@ while game_is_on:
 
         food.refresh()
         snake.new_segment()
+        score.score += 1
 
         
